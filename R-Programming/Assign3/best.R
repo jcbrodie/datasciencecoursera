@@ -1,5 +1,5 @@
 #####
-# Function for Assigment 3 of R Programming course
+# Function for Assignment 3 of R Programming course
 #
 # Passes all submit script tests.
 # By jcbrodie
